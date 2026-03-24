@@ -86,7 +86,7 @@ STEPS TO INSTALL :
 
 Step 1 : Clone Repository
 
-git clone https://github.com/your-username/pathfinding-visualizer.git
+git clone https://github.com/Harsh-872/AI-Pathfinder-Visualizer.git
 cd pathfinding-visualizer
 
 Step 2 : Install Dependencies
