@@ -6,6 +6,40 @@ Overview :
 This project is an interactive Pathfinding Visualizer that demonstrates how fundamental Artificial Intelligence algorithms compute optimal paths in a grid-based environment.
 It allows users to simulate real-world navigation scenarios and observe how different algorithms explore and find paths between two points.
 The project is built as part of a Bring Your Own Project (BYOP) to apply AI/ML fundamentals in a practical, visual, and intuitive way.
+
+Features
+
+Visualize multiple pathfinding algorithms
+
+Interactive grid with walls/obstacles
+
+Step-by-step animation of algorithm execution
+
+Clear path highlighting
+
+User-friendly interface
+
+Algorithms Implemented
+
+🔹 Breadth-First Search (BFS)
+
+Explores nodes level by level
+
+Guarantees shortest path in unweighted graphs
+
+🔹 Depth-First Search (DFS)
+
+Explores as deep as possible before backtracking
+
+Does not guarantee shortest path
+
+🔹 A* Algorithm
+
+Uses heuristics to find the optimal path efficiently
+
+Combines benefits of BFS and Greedy algorithms
+
+Widely used in real-world applications
 	
 PROBLEM STATEMENT :
 
